@@ -1,0 +1,35 @@
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Logs and databases
+*.log
+*.db
+*.sqlite3
+
+# Secrets
+.env
+
+# Jupyter and RStudio
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+
+# System files
+.DS_Store
+Thumbs.db
